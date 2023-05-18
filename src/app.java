@@ -3,5 +3,6 @@ public class app {
         System.out.println("Olá mundo no GITHUB versao 2");
         var x = "teste";
         var y = "teste2";
+        var v = "teste3";
     }
 }
